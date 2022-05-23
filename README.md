@@ -7,4 +7,4 @@ Developer by Day, Dad at Night!
 - 🤔 I’m looking for help with .Net.
 - 💬 Ask me about JavaScript, HTML, CSS!
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/matthew-kauff/
-- ⚡ Fun fact: I have jumped out of a plane and I work on cars in my spare time.
+- ⚡ Fun fact: 🪂 I have jumped out of a plane ✈️
