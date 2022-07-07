@@ -1,7 +1,7 @@
 # Hello, I'm Matthew Kauff 👋
 ### Developer by Day, Dad by Night!
 
-<img src="" alt="<---TECH STACK--->" align="right"/>
+<img src="" alt="<---MY TECH STACK--->" align="right"/>
 <h3>About Me:</h3> 
   - 🔭 I’m currently working on a browser based game. <img src="https://skillicons.dev/icons?i=html,css,js" align="right"/>
   <br>
