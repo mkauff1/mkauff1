@@ -10,5 +10,11 @@
 - 🤔 I’m looking for help with .NET.
 - 💬 Ask me about JavaScript, HTML, CSS, or Java!
 - ⚡ Fun fact: I have jumped out of a plane 🪂
-- 📫 How to reach me: LinkedIn <a href="https://www.linkedin.com/in/matthew-kauff/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/matthew-kauff/" height="20" width="20"/></a>
+- 📫 How to reach me: LinkedIn <a href="https://www.linkedin.com/in/matthew-kauff/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="https://www.linkedin.com/in/matthew-kauff/" height="20" width="20"/></a>
 
+<br>
+<h3>TECH STACK</h3>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,redux,java,spring,mysql,tailwind,bootstrap,sass,idea,vscode,git&perline=3" />
+</a>
